@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BushraAbukarn
 - 👀 I’m interested in Data Science 
 - 🌱 I graduated with a BS in  Applied Statistics from Cal State Uni, Long Beach 
-- 📫 How to reach me bushra.sk24@gmail.com 
+- 📫 How to reach me bushra.ak24@gmail.com 
 .
 
 <!---
