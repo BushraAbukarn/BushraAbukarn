@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BushraAbukarn
 - 👀 I’m interested in Data Science 
-- 🌱 I graduated with a BS in  Applied Statistics from Cal State Uni, Long Beach 2024
+- 🌱 I graduated with a BS in  Applied Statistics from Cal State Uni, Long Beach in 2024
 - 📫 How to reach me bushra.ak24@gmail.com 
 .
 
