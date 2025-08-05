@@ -2,7 +2,7 @@
 
 - 👩‍💻 My name is **Bushra Abukarn**, and I’m passionate about **predictive modeling** and **risk analysis**.
 - 🎓 I hold a **B.S. in Applied Statistics** from **California State University, Long Beach**.
-- 💼 I recently worked as a **Business Intelligence Analyst Intern** at **TripleTen**, where I applied data analytics to real-world business problems using SQL, Power BI, and Excel.
+- 💼 I am currently interning as a Business Intelligence Analyst at TripleTen, where I apply data analytics to real-world business problems using SQL, Power BI, and Excel.
 - 📫 Reach me at: **bushra.ak24@gmail.com**
 
 ---
