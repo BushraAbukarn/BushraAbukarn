@@ -11,7 +11,7 @@
 
 ### 💻 Programming Languages
 - **Python** (Pandas, Matplotlib, Seaborn, Scikit-learn)  
-- **SQL** (Window Functions, CTEs, JOINs)  
+- **SQL** (CTEs, JOINs)  
 - **R**, **SAS**
 
 ### 📊 Data Visualization
