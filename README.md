@@ -29,14 +29,3 @@
 
 ---
 
-## 💼 Experience
-
-**Business Intelligence Analyst Intern – TripleTen**  
-*March 2025 – June 2025*  
-- Used SQL to query and clean complex datasets  
-- Built interactive dashboards in Power BI to present KPIs  
-- Conducted exploratory data analysis to uncover insights and trends  
-- Collaborated on cross-functional team projects simulating real-world BI scenarios
-
----
-
