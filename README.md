@@ -3,8 +3,7 @@
 - 📫 How to reach me bushra.ak24@gmail.com 
 
 ## 🌱 I am skilled in the following: 
-- **Programming Languages:** Python (Pandas, Matplotlib, Seaborn, Scikit-Learn), SQL( Window, CTE, Join), R, SAS
-- **Data Visualization:** Advanced Excel (Pivot Table, VLOOKUP, Macros,), Tableau, Power BI(DAX) 
-- **Marketing Analytics:** Google Ads, Google Analytics
-- **Machine Learning Algorithms:** Factor Analysis, Random Forest, Linear Regression, XGBoost
-- **Statistical Analysis:** Probability Distributions, Hypothesis Testing, Statistical Inference
+- **Programming Languages:** Python (Pandas, Matplotlib, Seaborn, Scikit-Learn), SQL( Window, CTE, Join), R, SAS.
+- **Data Visualization:** Excel (XLOOKUP, VLOOKUP, PivotTables, SUMIFS), Tableau, Power BI(DAX). 
+- **Machine Learning Algorithms:** Supervised Learning (Linear, Logistic, Decision Trees), Unsupervised Learning (PCA, Clustering), Model Evaluation, Feature Engineering.
+- **Statistical Analysis:** Hypothesis Testing, ANOVA, Risk Assessment, Probability Distribution, Time-Series Analysis, Naïve Bayes, Regression.
