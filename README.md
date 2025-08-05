@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @BushraAbukarn
-- 👀 I’m interested in Data Science and Consulting
-- 🌱 I graduated with a BS in  Applied Statistics from Cal State Uni, Long Beach in 2024
+# 👋 Hi Everyone, I hope you are doing well! 
+- 👀 My name is Bushra Abukarn. I am intrested in predictive modeling and risks analysis. I hold a B.S in Applied Statistics from Cal State Uni, Long Beach. 
 - 📫 How to reach me bushra.ak24@gmail.com 
-.
 
-<!---
-BushraAbukarn/BushraAbukarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌱 I am skilled in the following: 
+**Programming Languages:** Python (Pandas, Matplotlib, Seaborn, Scikit-Learn), SQL( Window, CTE, Join), R, SAS
+**Data Visualization:** Advanced Excel (Pivot Table, VLOOKUP, Macros,), Tableau, Power BI(DAX) 
+**Marketing Analytics:** Google Ads, Google Analytics
+**Machine Learning Algorithms:** Factor Analysis, Random Forest, Linear Regression, XGBoost
+**Statistical Analysis:** Probability Distributions, Hypothesis Testing, Statistical Inference
